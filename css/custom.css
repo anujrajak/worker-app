@@ -1,0 +1,12 @@
+.graDanger{
+	background: linear-gradient(to right, #ffbf96, #fe7096);
+}
+
+.mb-5 a{
+	text-decoration: none !important;
+	color: #ffffff !important;
+}
+
+select{
+	color: black !important;
+}
